@@ -1,7 +1,6 @@
-# Verification-code-for-bridging-gap
+# Verification-code-for-bridging-gap: Step-by-step instructions to reproduce the paper "Bridging dimensions: confident reachability for high-dimensional controllers"
 
-# Step-by-step instructions to reproduce the paper "Bridging dimensions: confident reachability for high-dimensional controllers"
-
+Here is the link to the virtual machine with a password 123456: https://www.dropbox.com/scl/fi/wf4m5illj27p2zuiit5xu/Bridging-Dimensions-Confident-Reachability-for-High-Dimensional-Controllers.zip?rlkey=azvs6o9dge4vpufilr0pjdij8&dl=0 
 
 ## Case study 1: Inverted pendulum
 
